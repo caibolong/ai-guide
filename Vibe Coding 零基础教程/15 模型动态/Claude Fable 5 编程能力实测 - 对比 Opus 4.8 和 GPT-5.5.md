@@ -1,4 +1,4 @@
-# Claude Fable 5 炸裂发布！一手实测
+# Claude Fable 5 编程能力实测 - 对比 Opus 4.8 和 GPT-5.5
 
 > 全球最贵 AI 模型实测对比：Fable 5 vs Opus 4.8 vs GPT-5.5
 
